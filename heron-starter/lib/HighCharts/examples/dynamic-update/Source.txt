@@ -1,8 +1,8 @@
-iPhone,54301
-Android,42098
-Web,17995
-twittbot,5502
-TweetDeck,3783
-iPad,2172
-Facebook,1870
-Windows,682
+iPhone,58280
+Android,45309
+Web,19425
+twittbot,5929
+TweetDeck,4063
+iPad,2313
+Facebook,2012
+Windows,731
